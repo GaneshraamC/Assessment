@@ -1,0 +1,535 @@
+.sunshine-bliss {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sunshine-bliss .frame-wrapper {
+    background-color: #ffffff;
+    width: 462px;
+    height: 603px;
+  }
+  
+  .sunshine-bliss .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+    position: relative;
+    top: 39px;
+    left: 58px;
+  }
+  
+  .sunshine-bliss .top {
+    position: relative;
+    width: 345px;
+    height: 24px;
+    margin-right: -2px;
+  }
+  
+  .sunshine-bliss .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 100px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ff6b82;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sunshine-bliss .line {
+    width: 97px;
+    left: 246px;
+    position: absolute;
+    height: 1px;
+    top: 11px;
+  }
+  
+  .sunshine-bliss .img {
+    width: 92px;
+    left: 0;
+    position: absolute;
+    height: 1px;
+    top: 11px;
+  }
+  
+  .sunshine-bliss .unit {
+    position: relative;
+    width: 341px;
+    height: 181.11px;
+  }
+  
+  .sunshine-bliss .overlap {
+    position: relative;
+    height: 174px;
+    top: 7px;
+    background-color: #fff8f9;
+    border: 2px solid;
+    border-color: #ff6b82;
+  }
+  
+  .sunshine-bliss .group {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 28px;
+    left: 20px;
+  }
+  
+  .sunshine-bliss .overlap-group {
+    position: relative;
+    height: 14px;
+    border-radius: 7.23px;
+  }
+  
+  .sunshine-bliss .ellipse {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 3px;
+    left: 3px;
+    background-color: #ff6b82;
+    border-radius: 4.52px;
+  }
+  
+  .sunshine-bliss .div {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    border-radius: 7.23px;
+    border: 0.9px solid;
+    border-color: #ff6b82;
+  }
+  
+  .sunshine-bliss .overlap-2 {
+    position: absolute;
+    width: 66px;
+    height: 25px;
+    top: 88px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 1.81px;
+    border: 0.9px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .sunshine-bliss .text-wrapper-2 {
+    position: absolute;
+    top: 5px;
+    left: 6px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sunshine-bliss .polygon {
+    position: absolute;
+    width: 5px;
+    height: 4px;
+    top: 10px;
+    left: 53px;
+  }
+  
+  .sunshine-bliss .overlap-3 {
+    position: absolute;
+    width: 66px;
+    height: 25px;
+    top: 121px;
+    left: 66px;
+    background-color: #ffffff;
+    border-radius: 1.81px;
+    border: 0.9px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .sunshine-bliss .overlap-4 {
+    position: absolute;
+    width: 72px;
+    height: 25px;
+    top: 88px;
+    left: 139px;
+    background-color: #ffffff;
+    border-radius: 1.81px;
+    border: 0.9px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .sunshine-bliss .polygon-2 {
+    position: absolute;
+    width: 5px;
+    height: 4px;
+    top: 10px;
+    left: 59px;
+  }
+  
+  .sunshine-bliss .overlap-5 {
+    position: absolute;
+    width: 72px;
+    height: 25px;
+    top: 121px;
+    left: 139px;
+    background-color: #ffffff;
+    border-radius: 1.81px;
+    border: 0.9px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .sunshine-bliss .text-wrapper-3 {
+    position: absolute;
+    top: 66px;
+    left: 64px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-4 {
+    top: 95px;
+    left: 47px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-5 {
+    top: 128px;
+    left: 46px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-6 {
+    position: absolute;
+    top: 66px;
+    left: 137px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 9.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-7 {
+    position: absolute;
+    top: 26px;
+    left: 47px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-8 {
+    position: absolute;
+    top: 21px;
+    left: 232px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-9 {
+    position: absolute;
+    top: 40px;
+    left: 232px;
+    opacity: 0.3;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+    white-space: nowrap;
+  }
+  
+  .sunshine-bliss .div-wrapper {
+    position: absolute;
+    width: 55px;
+    height: 17px;
+    top: 30px;
+    left: 98px;
+    background-color: #ff6b82;
+    border-radius: 1px;
+  }
+  
+  .sunshine-bliss .text-wrapper-10 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .unit-2 {
+    position: relative;
+    width: 341px;
+    height: 74.11px;
+    background-color: #ffffff99;
+    border: 1px solid;
+    border-color: #c8c8c8;
+  }
+  
+  .sunshine-bliss .ellipse-2 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 26px;
+    left: 21px;
+    border-radius: 7.23px;
+    border: 0.9px solid;
+    border-color: #d9d9d9;
+  }
+  
+  .sunshine-bliss .overlap-6 {
+    position: absolute;
+    width: 104px;
+    height: 35px;
+    top: 19px;
+    left: 49px;
+  }
+  
+  .sunshine-bliss .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .overlap-7 {
+    position: absolute;
+    width: 104px;
+    height: 33px;
+    top: 2px;
+    left: 0;
+  }
+  
+  .sunshine-bliss .text-wrapper-12 {
+    position: absolute;
+    top: 18px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .overlap-8 {
+    position: absolute;
+    width: 55px;
+    height: 17px;
+    top: 0;
+    left: 49px;
+    background-color: #ff6b82;
+    border-radius: 1px;
+  }
+  
+  .sunshine-bliss .text-wrapper-13 {
+    position: absolute;
+    top: 0;
+    left: 4px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-14 {
+    position: absolute;
+    top: 20px;
+    left: 233px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .text-wrapper-15 {
+    position: absolute;
+    top: 39px;
+    left: 233px;
+    opacity: 0.3;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+    white-space: nowrap;
+  }
+  
+  .sunshine-bliss .overlap-9 {
+    position: absolute;
+    width: 129px;
+    height: 26px;
+    top: -7px;
+    left: 212px;
+  }
+  
+  .sunshine-bliss .rectangle {
+    width: 129px;
+    height: 7px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .sunshine-bliss .rectangle-2 {
+    width: 119px;
+    height: 26px;
+    left: 5px;
+    background-color: #ff6b82;
+    border-radius: 0px 0px 4px 4px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .sunshine-bliss .text-wrapper-16 {
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .bottom {
+    position: relative;
+    width: 348px;
+    height: 97px;
+    margin-right: -5.5px;
+  }
+  
+ .text-wrapper-17 {
+    position: absolute;
+    top: 105px;
+    left: 213px;
+    font-family: "Inter-Italic", Helvetica;
+    font-weight: 600;
+    font-style: italic;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sunshine-bliss .add-to-cart {
+    display: flex;
+    width: 323px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px;
+    position: absolute;
+    top: 37px;
+    left: 0;
+    background-color: #ff6b82;
+    border-radius: 4px;
+  }
+  
+  .sunshine-bliss .plus {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .sunshine-bliss .text-wrapper-18 {
+    position: relative;
+    width: 68px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+ 
+  .total-info {
+    left: 216px;
+    top: 0px;
+    position: absolute;
+}
+
+.total-info span {
+    color: black;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+  
+  .sunshine-bliss .span {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+  }
+  
+  .sunshine-bliss .text-wrapper-20 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+  }
+
+
+
+  /* Your existing styles here */
+
+/* Additional styles for hiding/showing elements */
+
+
+
